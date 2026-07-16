@@ -2,6 +2,8 @@
 
 Este proyecto busca entender mejor la distribución geográfica y estadística de los **establecimientos educativos**, **pibliotecas populares** y la **población** en Argentina. A partir de tres fuentes oficiales, se limpian y procesan los datos, se arman visualizaciones claras, y se hacen consultas SQL para sacar conclusiones.
 
+Trabajo académico realizado durante 2025 para la materia Laboratorio de datos de la Licenciatura en Ciencia de Datos de la Universidad de Buenos Aires (UBA). Integrantes del grupo: Guillermo De La Vega, Francisco Anllo y Matías Naddeo
+
 ---
 
 ## ¿Cómo empezar?
